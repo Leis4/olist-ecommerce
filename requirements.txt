@@ -1,0 +1,7 @@
+pandas
+optuna
+scikit-learn
+numpy
+xgboost
+connectorx
+data_profiling
